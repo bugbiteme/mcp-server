@@ -5,7 +5,9 @@
   "description": "MCP Server notes from Coder Consortium",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx main.ts",
+    "inspect": "npx @modelcontextprotocol/inspector -- npx tsx main.ts"
   },
   "repository": {
     "type": "git",

@@ -14,3 +14,11 @@ Actual command to run server:
 ```bash
  npx @modelcontextprotocol/inspector -- npx tsx main.ts
  ```
+
+ Added to `package.json` so you can run 
+ ```bash
+ npm run instpect
+ ```
+ as a shortcut
+
+ 
