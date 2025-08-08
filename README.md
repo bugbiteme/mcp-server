@@ -4,6 +4,8 @@ MCP Server notes from Coder Consortium
 
 [Tutorial](https://dev.to/debs_obrien/building-your-first-mcp-server-a-beginners-tutorial-5fag)
 
+[Via](https://www.sacswe.org/)
+
 Tutorial says to run the following, but I couldn't get it to work:
 ```bash
 npx -y @modelcontextprotocol/inspector npx -y tsx main.ts 
