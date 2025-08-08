@@ -17,7 +17,7 @@ Actual command to run server:
 
  Added to `package.json` so you can run 
  ```bash
- npm run instpect
+ npm run inspect
  ```
  as a shortcut
 
